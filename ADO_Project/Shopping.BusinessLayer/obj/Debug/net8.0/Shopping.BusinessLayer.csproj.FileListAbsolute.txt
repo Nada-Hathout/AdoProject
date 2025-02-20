@@ -1,0 +1,15 @@
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.BusinessLayer.deps.json
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.BusinessLayer.dll
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.BusinessLayer.pdb
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.DataAccess.dll
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.DataAccess.pdb
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.csproj.AssemblyReference.cache
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.AssemblyInfoInputs.cache
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.AssemblyInfo.cs
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.5D0C1D7F.Up2Date
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.dll
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\refint\Shopping.BusinessLayer.dll
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.pdb
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\ref\Shopping.BusinessLayer.dll

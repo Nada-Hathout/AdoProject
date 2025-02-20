@@ -1,0 +1,12 @@
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\bin\Debug\net8.0\Shopping.DataAccess.deps.json
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\bin\Debug\net8.0\Shopping.DataAccess.dll
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\bin\Debug\net8.0\Shopping.DataAccess.pdb
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.AssemblyInfo.cs
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.dll
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\refint\Shopping.DataAccess.dll
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.pdb
+F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\ref\Shopping.DataAccess.dll
