@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj": {}
+    "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj": {}
   },
   "projects": {
-    "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj": {
+    "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj",
+        "projectUniqueName": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj",
         "projectName": "Shopping.BusinessLayer",
-        "projectPath": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\Nada\\.nuget\\packages\\",
-        "outputPath": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\obj\\",
+        "projectPath": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj": {
-                "projectPath": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj"
+              "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj": {
+                "projectPath": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj"
               }
             }
           }
@@ -69,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj": {
+    "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj",
+        "projectUniqueName": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj",
         "projectName": "Shopping.DataAccess",
-        "projectPath": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Nada\\.nuget\\packages\\",
-        "outputPath": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.DataAccess\\obj\\",
+        "projectPath": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.DataAccess\\Shopping.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -140,24 +140,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj": {
+    "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj",
+        "projectUniqueName": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj",
         "projectName": "shopping.Presentation",
-        "projectPath": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj",
-        "packagesPath": "C:\\Users\\Nada\\.nuget\\packages\\",
-        "outputPath": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\obj\\",
+        "projectPath": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\shopping.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -172,8 +172,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj": {
-                "projectPath": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj"
+              "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj": {
+                "projectPath": "D:\\ITI\\Windows Form & ADO\\AdoProject\\ADO_Project\\Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj"
               }
             }
           }
@@ -212,7 +212,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

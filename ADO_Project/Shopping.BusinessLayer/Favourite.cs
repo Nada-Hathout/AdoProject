@@ -7,13 +7,26 @@ using System.Threading.Tasks;
 
 namespace Shopping.BusinessLayer
 {
-    internal class Favourite
+    public class Favourite
     {
         DbContext context;
 
         public Favourite(string connectionString)
         {
             context = new DbContext(connectionString);
+        }
+        public int addFav(int productID, int UserID)
+        {
+            string query = $"insert into Favorites([UserId],ProductId) values ({UserID},{productID})";
+            int rowAffected = context.ExecuteNonQuery(query);
+            return rowAffected;
+        }
+        public int deleteFav(int productID, int UserID)
+        {
+            string query = $"delete from Favorites where ProductId={productID} and UserId={UserID}";
+            int rowAffected = context.ExecuteNonQuery(query);
+            return rowAffected;
+
         }
     }
 }

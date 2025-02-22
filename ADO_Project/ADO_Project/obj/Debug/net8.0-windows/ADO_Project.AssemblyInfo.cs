@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADO_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68c80e5dc48a6c9587898cde8bd2f7f5a1f9d23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d9a7e7b5c99a75637ac6641b644429aa2b6e847")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADO_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADO_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

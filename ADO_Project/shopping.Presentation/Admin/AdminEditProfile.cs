@@ -15,12 +15,12 @@ namespace shopping.Presentation.Admin
     public partial class AdminEditProfile : Form
     {
         Users userService;
-        DataTable theUser;
+        DataTable UserData;
         public AdminEditProfile(DataTable user)
         {
             InitializeComponent();
             userService=new Users(ConfigurationManager.ConnectionStrings["Shopping"].ConnectionString);
-            theUser = user;
+            UserData = user;
         }
 
         private void show_pass1_CheckedChanged(object sender, EventArgs e)
@@ -77,8 +77,8 @@ namespace shopping.Presentation.Admin
                 return;
             }
 
-            DataRow userRow = theUser.Rows[0];
-            int id=Convert.ToInt32(userRow["UserId"]);
+            DataRow userRow = UserData.Rows[0];
+            int id = Convert.ToInt32(userRow["UserId"]);
 
             string userName = userRow["Username"].ToString();
             string oldPassword = txt_oldpassword.Text;

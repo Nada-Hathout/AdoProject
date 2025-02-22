@@ -17,6 +17,7 @@ namespace shopping.Presentation
     public partial class Login : Form
     {
         Users user;
+
         public Login()
         {
             InitializeComponent();
@@ -42,18 +43,18 @@ namespace shopping.Presentation
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
 
-            
+
+
             if (string.IsNullOrWhiteSpace(txt_username.Text) ||
                 string.IsNullOrWhiteSpace(txt_password.Text))
             {
                 MessageBox.Show("Please Fill The Form", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return; 
+                return;
             }
 
             string role = "User";
-         
+
             if (string.IsNullOrEmpty(role))
             {
                 MessageBox.Show("Please select a role.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -62,21 +63,23 @@ namespace shopping.Presentation
 
             try
             {
-               
+
                 int affectedRow = user.LoginAsUser(txt_username.Text, txt_password.Text);
-                if (user.LoginAsUser(txt_username.Text, txt_password.Text)>0) 
+                if (user.LoginAsUser(txt_username.Text, txt_password.Text) > 0)
                 {
-                   UserView userView= new UserView();
+                    DataTable UserData = user.authenticateUserData(txt_username.Text, txt_password.Text);
+                    UserView userView = new UserView(UserData);
                     this.Hide();
                     userView.Show();
-                    
+
                 }
                 else if (user.LoginAsAdmin(txt_username.Text, txt_password.Text) > 0)
                 {
-                    AdminDash adminDash = new AdminDash();
+                    DataTable UserData = user.authenticateAdminData(txt_username.Text, txt_password.Text);
+                    AdminDash adminDash = new AdminDash(UserData);
                     this.Hide();
                     adminDash.Show();
-                   
+
                 }
                 else
                 {
@@ -89,5 +92,12 @@ namespace shopping.Presentation
             }
         }
 
+        private void checkBox_ShowPass_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox_ShowPass.Checked)
+                txt_password.UseSystemPasswordChar = false;
+            else
+                txt_password.UseSystemPasswordChar = true;
+        }
     }
 }

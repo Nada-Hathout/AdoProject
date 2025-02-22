@@ -15,6 +15,20 @@ namespace Shopping.BusinessLayer
         public Users(string connectionString) {
           context = new DbContext(connectionString);
         }
+        public bool authenticateUser(string userName, string password)
+        {
+            string query = $"select [Username],[Password] from Users where Password='{password}' and Username='{userName}'and Role='User'";
+            DataTable dataTable = context.ExecuteQuery(query);
+
+
+            return dataTable.Rows.Count > 0;
+        }
+        public int UpdateUserPassword(int id, string userName, string password)
+        {
+            string query = $"UPDATE Users SET UserName = '{userName}', Password = '{password}' WHERE UserID = {id}";
+            int rowAffected = context.ExecuteNonQuery(query);
+            return rowAffected;
+        }
         public DataTable getAllUsers()
         {
             string query = "Select UserId,Username,Password,Email,Age,Address,Role from Users";
@@ -43,6 +57,14 @@ namespace Shopping.BusinessLayer
             string query = $"SELECT * FROM Users WHERE Username='{username}' AND Password='{password}'AND Role='Admin'";
             DataTable dt = context.ExecuteQuery(query);
             return dt.Rows.Count    ;
+
+
+        }
+        public bool authenticateAdmin(string username, string password)
+        {
+            string query = $"SELECT * FROM Users WHERE Username='{username}' AND Password='{password}'AND Role='Admin'";
+            DataTable dt = context.ExecuteQuery(query);
+            return dt.Rows.Count>0;
 
 
         }
@@ -85,13 +107,13 @@ namespace Shopping.BusinessLayer
             return dataTable;
         }
 
-        public bool authenticateAdmin(string userName, string password)
+        public DataTable authenticateAdminData(string userName, string password)
         {
-            string query = $"select [Username],[Password] from Users where Password='{password}' and Username='{userName}'and Role='User'";
+            string query = $"select [UserId], [Username],[Password] from Users where Password='{password}' and Username='{userName}'and Role='Admin'";
             DataTable dataTable = context.ExecuteQuery(query);
 
 
-            return dataTable.Rows.Count > 0;
+            return dataTable;
         }
 
      

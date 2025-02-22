@@ -15,12 +15,13 @@ namespace shopping.Presentation.Admin
 {
     public partial class ManageUsers : Form
     {
+        DataTable UserData;
         Users user;
-        public ManageUsers()
+        public ManageUsers(DataTable userData)
         {
             InitializeComponent();
             user = new Users(ConfigurationManager.ConnectionStrings["Shopping"].ConnectionString);
-
+            UserData = userData;
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -43,7 +44,7 @@ namespace shopping.Presentation.Admin
 
         private void btn_back_Click(object sender, EventArgs e)
         {
-            AdminDash adminDash = new AdminDash();
+            AdminDash adminDash = new AdminDash(UserData);
             this.Hide();
             adminDash.Show();
         }

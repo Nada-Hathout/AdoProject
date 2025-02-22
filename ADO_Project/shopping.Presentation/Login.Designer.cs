@@ -37,6 +37,7 @@
             pictureBox1 = new PictureBox();
             panel1 = new Panel();
             txt_username = new TextBox();
+            checkBox_ShowPass = new CheckBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -50,9 +51,10 @@
             button1.FlatStyle = FlatStyle.Flat;
             button1.Font = new Font("Sitka Small", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = Color.MidnightBlue;
-            button1.Location = new Point(535, 349);
+            button1.Location = new Point(611, 465);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(94, 43);
+            button1.Size = new Size(107, 57);
             button1.TabIndex = 0;
             button1.Text = "Login";
             button1.UseVisualStyleBackColor = false;
@@ -60,10 +62,11 @@
             // 
             // txt_password
             // 
-            txt_password.Location = new Point(143, 71);
-            txt_password.Multiline = true;
+            txt_password.Location = new Point(163, 95);
+            txt_password.Margin = new Padding(3, 4, 3, 4);
+            //txt_password.Multiline = true;
             txt_password.Name = "txt_password";
-            txt_password.Size = new Size(157, 33);
+            txt_password.Size = new Size(179, 43);
             txt_password.TabIndex = 2;
             txt_password.UseSystemPasswordChar = true;
             // 
@@ -73,9 +76,9 @@
             label1.BackColor = Color.Gainsboro;
             label1.Font = new Font("Sitka Small", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.FromArgb(64, 0, 64);
-            label1.Location = new Point(20, 36);
+            label1.Location = new Point(23, 48);
             label1.Name = "label1";
-            label1.Size = new Size(92, 23);
+            label1.Size = new Size(116, 28);
             label1.TabIndex = 3;
             label1.Text = "UserName";
             // 
@@ -84,9 +87,9 @@
             label2.AutoSize = true;
             label2.Font = new Font("Sitka Small", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.FromArgb(64, 0, 64);
-            label2.Location = new Point(25, 81);
+            label2.Location = new Point(29, 108);
             label2.Name = "label2";
-            label2.Size = new Size(87, 23);
+            label2.Size = new Size(109, 28);
             label2.TabIndex = 4;
             label2.Text = "Password";
             label2.Click += label2_Click;
@@ -100,9 +103,10 @@
             button2.FlatStyle = FlatStyle.Flat;
             button2.Font = new Font("Sitka Small", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button2.ForeColor = Color.MidnightBlue;
-            button2.Location = new Point(41, 349);
+            button2.Location = new Point(47, 465);
+            button2.Margin = new Padding(3, 4, 3, 4);
             button2.Name = "button2";
-            button2.Size = new Size(92, 43);
+            button2.Size = new Size(105, 57);
             button2.TabIndex = 5;
             button2.Text = "back";
             button2.UseVisualStyleBackColor = false;
@@ -111,9 +115,10 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(-142, -123);
+            pictureBox1.Location = new Point(-162, -164);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(923, 601);
+            pictureBox1.Size = new Size(1055, 801);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 9;
             pictureBox1.TabStop = false;
@@ -121,33 +126,51 @@
             // panel1
             // 
             panel1.BackColor = Color.Gainsboro;
+            panel1.Controls.Add(checkBox_ShowPass);
             panel1.Controls.Add(txt_username);
             panel1.Controls.Add(label1);
             panel1.Controls.Add(txt_password);
             panel1.Controls.Add(label2);
-            panel1.Location = new Point(177, 187);
+            panel1.Location = new Point(202, 249);
+            panel1.Margin = new Padding(3, 4, 3, 4);
             panel1.Name = "panel1";
-            panel1.Size = new Size(312, 139);
+            panel1.Size = new Size(357, 185);
             panel1.TabIndex = 10;
             // 
             // txt_username
             // 
-            txt_username.Location = new Point(143, 27);
+            txt_username.Location = new Point(163, 36);
+            txt_username.Margin = new Padding(3, 4, 3, 4);
             txt_username.Multiline = true;
             txt_username.Name = "txt_username";
-            txt_username.Size = new Size(157, 32);
+            txt_username.Size = new Size(179, 41);
             txt_username.TabIndex = 9;
             txt_username.UseSystemPasswordChar = true;
             // 
+            // checkBox_ShowPass
+            // 
+            checkBox_ShowPass.AutoSize = true;
+            checkBox_ShowPass.Font = new Font("Segoe UI", 12F);
+            checkBox_ShowPass.ForeColor = Color.FromArgb(146, 160, 144);
+            checkBox_ShowPass.Location = new Point(163, 146);
+            checkBox_ShowPass.Margin = new Padding(3, 4, 3, 4);
+            checkBox_ShowPass.Name = "checkBox_ShowPass";
+            checkBox_ShowPass.Size = new Size(168, 32);
+            checkBox_ShowPass.TabIndex = 22;
+            checkBox_ShowPass.Text = "Show Password";
+            checkBox_ShowPass.UseVisualStyleBackColor = true;
+            checkBox_ShowPass.CheckedChanged += checkBox_ShowPass_CheckedChanged;
+            // 
             // Login
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(677, 417);
+            ClientSize = new Size(774, 556);
             Controls.Add(panel1);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(pictureBox1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Login";
             Text = "Form2";
             Load += Login_Load;
@@ -167,5 +190,6 @@
         private PictureBox pictureBox1;
         private Panel panel1;
         private TextBox txt_username;
+        private CheckBox checkBox_ShowPass;
     }
 }

@@ -14,14 +14,15 @@ namespace shopping.Presentation.Admin
 {
     public partial class ManageProduct_Admin : Form
     {
+        DataTable UserData;
         ProductsService Products;
         categorieService Category;
-        public ManageProduct_Admin()
+        public ManageProduct_Admin(DataTable userData)
         {
             InitializeComponent();
             Products = new ProductsService(ConfigurationManager.ConnectionStrings["Shopping"].ConnectionString);
             Category = new categorieService(ConfigurationManager.ConnectionStrings["Shopping"].ConnectionString);
-
+            UserData = userData;
         }
 
         /////// insert
@@ -188,7 +189,7 @@ namespace shopping.Presentation.Admin
 
         private void button4_Click(object sender, EventArgs e)
         {
-            AdminDash adminDash = new AdminDash();
+            AdminDash adminDash = new AdminDash(UserData);
             this.Hide();
             adminDash.Show();
         }

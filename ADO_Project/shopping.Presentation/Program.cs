@@ -16,7 +16,7 @@ namespace shopping.Presentation
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             //Application.Run(new WelcomePage());
-            Application.Run(new UserView());
+            Application.Run(new Login());
 
         }
     }

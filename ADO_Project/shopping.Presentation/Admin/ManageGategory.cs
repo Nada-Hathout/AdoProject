@@ -14,12 +14,13 @@ namespace shopping.Presentation.Admin
 {
     public partial class ManageGategory : Form
     {
+        DataTable UserData;
         categorieService category;
-        public ManageGategory()
+        public ManageGategory(DataTable userData)
         {
             InitializeComponent(); ;
             category = new categorieService(ConfigurationManager.ConnectionStrings["Shopping"].ConnectionString);
-
+            UserData = userData;
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
@@ -177,7 +178,7 @@ namespace shopping.Presentation.Admin
 
         private void button4_Click(object sender, EventArgs e)
         {
-            AdminDash adminDash = new AdminDash();
+            AdminDash adminDash = new AdminDash(UserData);
             this.Hide();
             adminDash.Show();
         }

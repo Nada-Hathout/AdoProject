@@ -10,3 +10,16 @@ F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.Data
 F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\refint\Shopping.DataAccess.dll
 F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.pdb
 F:\PD\ADO\project\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\ref\Shopping.DataAccess.dll
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\bin\Debug\net8.0\Shopping.DataAccess.deps.json
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\bin\Debug\net8.0\Shopping.DataAccess.dll
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\bin\Debug\net8.0\Shopping.DataAccess.pdb
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.csproj.AssemblyReference.cache
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.AssemblyInfoInputs.cache
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.AssemblyInfo.cs
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.csproj.CoreCompileInputs.cache
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.sourcelink.json
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.dll
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\refint\Shopping.DataAccess.dll
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\Shopping.DataAccess.pdb
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.DataAccess\obj\Debug\net8.0\ref\Shopping.DataAccess.dll

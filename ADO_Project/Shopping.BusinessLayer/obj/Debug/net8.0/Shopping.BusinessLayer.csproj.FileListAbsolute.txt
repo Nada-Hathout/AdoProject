@@ -14,3 +14,19 @@ F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\refint\Sho
 F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.pdb
 F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\ref\Shopping.BusinessLayer.dll
 F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.sourcelink.json
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.BusinessLayer.deps.json
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.BusinessLayer.dll
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.BusinessLayer.pdb
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.DataAccess.dll
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\bin\Debug\net8.0\Shopping.DataAccess.pdb
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.csproj.AssemblyReference.cache
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.AssemblyInfoInputs.cache
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.AssemblyInfo.cs
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.sourcelink.json
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.5D0C1D7F.Up2Date
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.dll
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\refint\Shopping.BusinessLayer.dll
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.pdb
+D:\ITI\Windows Form & ADO\AdoProject\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\ref\Shopping.BusinessLayer.dll
