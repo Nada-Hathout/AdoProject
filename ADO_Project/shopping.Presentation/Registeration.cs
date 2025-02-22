@@ -29,6 +29,7 @@ namespace shopping.Presentation
 
         private void btn_register_Click(object sender, EventArgs e)
         {
+            string role = "User";
             if (string.IsNullOrWhiteSpace(txt_username.Text) ||
                  string.IsNullOrWhiteSpace(txt_password.Text) ||
                  string.IsNullOrWhiteSpace(txt_email.Text))
@@ -40,7 +41,7 @@ namespace shopping.Presentation
             {
                 try
                 {
-                    int rowAffected = user.AddUser(txt_username.Text.Trim(), txt_password.Text.Trim(), txt_email.Text.Trim(), Convert.ToInt16(txt_agee.Value), txt_address.Text, Convert.ToString(cb_role.SelectedItem));
+                    int rowAffected = user.AddUser(txt_username.Text.Trim(), txt_password.Text.Trim(), txt_email.Text.Trim(), Convert.ToInt16(txt_agee.Value), txt_address.Text, role);
                     if (rowAffected > 0)
                     {
 

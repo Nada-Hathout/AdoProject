@@ -33,9 +33,9 @@ namespace Shopping.BusinessLayer
             return rowsAffected;
         }
 
-        public int UpdateCategory(string CategoryName)
+        public int UpdateCategory(string CategoryName,int id)
         {
-            String query = $"Update Categories set CategoryName='{CategoryName}' ";
+            String query = $"Update Categories set CategoryName='{CategoryName}' where CategoryId='{id}'";
             int rowsAffected = context.ExecuteNonQuery(query);
             return rowsAffected;
         }

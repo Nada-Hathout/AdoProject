@@ -1,5 +1,6 @@
 
 using shopping.Presentation.Admin;
+using shopping.Presentation.User;
 
 namespace shopping.Presentation
 {
@@ -15,7 +16,8 @@ namespace shopping.Presentation
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             //Application.Run(new WelcomePage());
-            Application.Run(new Login());
+            Application.Run(new UserView());
+
         }
     }
 }

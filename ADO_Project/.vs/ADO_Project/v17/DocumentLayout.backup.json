@@ -3,52 +3,95 @@
   "WorkspaceRootPath": "F:\\PD\\ADO\\project\\ADO_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.businesslayer\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|solutionrelative:shopping.businesslayer\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\manageproduct_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\manageproduct_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|F:\\PD\\ADO\\project\\ADO_Project\\shopping.presentation\\admin\\manageproduct_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\manageproduct_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\registeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\registeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|F:\\PD\\ADO\\project\\ADO_Project\\shopping.presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\admindash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\admindash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\registeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\registeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|F:\\PD\\ADO\\project\\ADO_Project\\shopping.presentation\\registeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\registeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|F:\\PD\\ADO\\project\\ADO_Project\\shopping.presentation\\user\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\user\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\user\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\user\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\admineditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\admineditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|F:\\PD\\ADO\\project\\ADO_Project\\shopping.presentation\\admin\\admineditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\admineditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.businesslayer\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|solutionrelative:shopping.businesslayer\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.businesslayer\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|solutionrelative:shopping.businesslayer\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.businesslayer\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|solutionrelative:shopping.businesslayer\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\manageproduct_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\manageproduct_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\shopping.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\shopping.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\user\\userview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\user\\userview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nada\\AppData\\Local\\Temp\\yoobpsvh..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|F:\\PD\\ADO\\project\\ADO_Project\\shopping.presentation\\admin\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\managegategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\managegategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|F:\\PD\\ADO\\project\\ADO_Project\\shopping.presentation\\admin\\managegategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\managegategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.businesslayer\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|solutionrelative:shopping.businesslayer\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\admin\\admindash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\admin\\admindash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.presentation\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,14 +109,6 @@
       "RelativeMoniker": "D:0:0:{3B9AB2E2-3363-4772-8C36-8B7B33166E01}|shopping.Presentation\\shopping.Presentation.csproj|solutionrelative:shopping.presentation\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.businesslayer\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|solutionrelative:shopping.businesslayer\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|f:\\pd\\ado\\project\\ado_project\\shopping.businesslayer\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18527B53-4B39-4EF9-9E36-6D90F0A1F49D}|Shopping.BusinessLayer\\Shopping.BusinessLayer.csproj|solutionrelative:shopping.businesslayer\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\UserProducCRUDt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shopping.Presentation\\UserProducCRUDt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -85,76 +120,284 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Program.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Program.cs",
-              "RelativeToolTip": "shopping.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Registeration.cs [Design]",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Registeration.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Registeration.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Registeration.cs [Design]*",
+              "RelativeToolTip": "shopping.Presentation\\Registeration.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:16:12.401Z",
+              "WhenOpened": "2025-02-22T13:31:05.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Login.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.cs [Design]*",
+              "RelativeToolTip": "shopping.Presentation\\Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:02:06.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registeration.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Registeration.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Registeration.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Registeration.cs*",
+              "RelativeToolTip": "shopping.Presentation\\Registeration.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCsAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:02:54.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Login.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.cs*",
+              "RelativeToolTip": "shopping.Presentation\\Login.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:09:07.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserView.cs [Design]",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\User\\UserView.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\User\\UserView.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\User\\UserView.cs [Design]",
+              "RelativeToolTip": "shopping.Presentation\\User\\UserView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:30:28.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminEditProfile.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminEditProfile.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\AdminEditProfile.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminEditProfile.cs",
+              "RelativeToolTip": "shopping.Presentation\\Admin\\AdminEditProfile.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:28:18.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminEditProfile.cs [Design]",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminEditProfile.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\AdminEditProfile.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminEditProfile.cs [Design]",
+              "RelativeToolTip": "shopping.Presentation\\Admin\\AdminEditProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:19:41.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\User\\UserView.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\User\\UserView.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\User\\UserView.cs",
+              "RelativeToolTip": "shopping.Presentation\\User\\UserView.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwFAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:34:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Users.cs",
+              "RelativeDocumentMoniker": "Shopping.BusinessLayer\\Users.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Users.cs",
+              "RelativeToolTip": "Shopping.BusinessLayer\\Users.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:54:24.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Favourite.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Favourite.cs",
+              "RelativeDocumentMoniker": "Shopping.BusinessLayer\\Favourite.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Favourite.cs",
+              "RelativeToolTip": "Shopping.BusinessLayer\\Favourite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:36:17.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\ProductsService.cs",
+              "RelativeDocumentMoniker": "Shopping.BusinessLayer\\ProductsService.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\ProductsService.cs",
+              "RelativeToolTip": "Shopping.BusinessLayer\\ProductsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:38:39.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ManageProduct_Admin.cs",
               "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageProduct_Admin.cs",
               "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\ManageProduct_Admin.cs",
               "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageProduct_Admin.cs",
               "RelativeToolTip": "shopping.Presentation\\Admin\\ManageProduct_Admin.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAwEEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T23:42:14.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Login.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.cs",
-              "RelativeToolTip": "shopping.Presentation\\Login.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Program.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Program.cs",
+              "RelativeToolTip": "shopping.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:52:16.325Z",
+              "WhenOpened": "2025-02-21T17:34:42.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Registeration.cs",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Registeration.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Registeration.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Registeration.cs",
-              "RelativeToolTip": "shopping.Presentation\\Registeration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "UserView.Designer.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\User\\UserView.Designer.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\User\\UserView.Designer.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\User\\UserView.Designer.cs",
+              "RelativeToolTip": "shopping.Presentation\\User\\UserView.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T12:01:23.58Z",
+              "WhenOpened": "2025-02-21T22:30:23.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Users.cs",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Users.cs",
-              "RelativeDocumentMoniker": "Shopping.BusinessLayer\\Users.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\Users.cs",
-              "RelativeToolTip": "Shopping.BusinessLayer\\Users.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "shopping.Presentation.csproj",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj",
+              "RelativeDocumentMoniker": "shopping.Presentation\\shopping.Presentation.csproj",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\shopping.Presentation.csproj",
+              "RelativeToolTip": "shopping.Presentation\\shopping.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T22:30:27.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDash.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\AdminDash.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.cs",
+              "RelativeToolTip": "shopping.Presentation\\Admin\\AdminDash.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAtwDEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T04:05:17.874Z",
+              "WhenOpened": "2025-02-21T17:03:18.739Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageUsers.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\ManageUsers.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageUsers.cs",
+              "RelativeToolTip": "shopping.Presentation\\Admin\\ManageUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:07:45.07Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "AdminDash.cs [Design]",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\AdminDash.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.cs [Design]",
+              "RelativeToolTip": "shopping.Presentation\\Admin\\AdminDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:26:30.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageGategory.cs [Design]",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageGategory.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\ManageGategory.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageGategory.cs [Design]",
+              "RelativeToolTip": "shopping.Presentation\\Admin\\ManageGategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:22:25.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageGategory.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageGategory.cs",
+              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\ManageGategory.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageGategory.cs",
+              "RelativeToolTip": "shopping.Presentation\\Admin\\ManageGategory.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAI4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:15:29.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "categorieService.cs",
+              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\categorieService.cs",
+              "RelativeDocumentMoniker": "Shopping.BusinessLayer\\categorieService.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\categorieService.cs",
+              "RelativeToolTip": "Shopping.BusinessLayer\\categorieService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:55:54.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "yoobpsvh..sql",
+              "DocumentMoniker": "C:\\Users\\Nada\\AppData\\Local\\Temp\\yoobpsvh..sql",
+              "ToolTip": "C:\\Users\\Nada\\AppData\\Local\\Temp\\yoobpsvh..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-21T08:21:32.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "UserProducCRUDt.cs",
               "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\UserProducCRUDt.cs",
               "RelativeDocumentMoniker": "shopping.Presentation\\UserProducCRUDt.cs",
@@ -165,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "AdminDash.Designer.cs",
               "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.Designer.cs",
               "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\AdminDash.Designer.cs",
@@ -173,24 +416,12 @@
               "RelativeToolTip": "shopping.Presentation\\Admin\\AdminDash.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T23:17:16.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminDash.cs",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\AdminDash.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.cs",
-              "RelativeToolTip": "shopping.Presentation\\Admin\\AdminDash.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:31:25.474Z",
+              "WhenOpened": "2025-02-19T23:17:16.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_LTONKNB_SQLEXPRESS/Shopping/True/SqlTable/dbo.Users.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_LTONKNB_SQLEXPRESS/Shopping/True/SqlTable/dbo.Users.sql",
@@ -199,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "WelcomePage.cs",
               "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\WelcomePage.cs",
               "RelativeDocumentMoniker": "shopping.Presentation\\WelcomePage.cs",
@@ -212,103 +443,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.Designer.cs",
               "RelativeDocumentMoniker": "shopping.Presentation\\Login.Designer.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.Designer.cs",
-              "RelativeToolTip": "shopping.Presentation\\Login.Designer.cs",
+              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.Designer.cs*",
+              "RelativeToolTip": "shopping.Presentation\\Login.Designer.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T12:20:00.78Z"
+              "WhenOpened": "2025-02-19T12:20:00.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "categorieService.cs",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\categorieService.cs",
-              "RelativeDocumentMoniker": "Shopping.BusinessLayer\\categorieService.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\categorieService.cs",
-              "RelativeToolTip": "Shopping.BusinessLayer\\categorieService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:55:54.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductsService.cs",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\ProductsService.cs",
-              "RelativeDocumentMoniker": "Shopping.BusinessLayer\\ProductsService.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\Shopping.BusinessLayer\\ProductsService.cs",
-              "RelativeToolTip": "Shopping.BusinessLayer\\ProductsService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:38:39.701Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManageProduct_Admin.cs [Design]",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageProduct_Admin.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\ManageProduct_Admin.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageProduct_Admin.cs [Design]",
-              "RelativeToolTip": "shopping.Presentation\\Admin\\ManageProduct_Admin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T23:41:09.637Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Login.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Login.cs [Design]",
-              "RelativeToolTip": "shopping.Presentation\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:52:10.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Registeration.cs [Design]",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Registeration.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Registeration.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Registeration.cs [Design]",
-              "RelativeToolTip": "shopping.Presentation\\Registeration.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:48:09.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminDash.cs [Design]",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\AdminDash.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\AdminDash.cs [Design]",
-              "RelativeToolTip": "shopping.Presentation\\Admin\\AdminDash.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:25:53.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ManageGategory.cs [Design]",
-              "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageGategory.cs",
-              "RelativeDocumentMoniker": "shopping.Presentation\\Admin\\ManageGategory.cs",
-              "ToolTip": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\Admin\\ManageGategory.cs [Design]",
-              "RelativeToolTip": "shopping.Presentation\\Admin\\ManageGategory.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:30:28.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "WelcomePage.cs [Design]",
               "DocumentMoniker": "F:\\PD\\ADO\\project\\ADO_Project\\shopping.Presentation\\WelcomePage.cs",
               "RelativeDocumentMoniker": "shopping.Presentation\\WelcomePage.cs",

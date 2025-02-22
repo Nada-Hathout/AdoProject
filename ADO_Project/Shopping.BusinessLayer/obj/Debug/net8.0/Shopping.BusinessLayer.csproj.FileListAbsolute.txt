@@ -13,3 +13,4 @@ F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.B
 F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\refint\Shopping.BusinessLayer.dll
 F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.pdb
 F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\ref\Shopping.BusinessLayer.dll
+F:\PD\ADO\project\ADO_Project\Shopping.BusinessLayer\obj\Debug\net8.0\Shopping.BusinessLayer.sourcelink.json

@@ -21,5 +21,33 @@ namespace shopping.Presentation.Admin
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ManageProduct_Admin admin = new ManageProduct_Admin();
+            this.Hide();
+            admin.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ManageGategory category = new ManageGategory();
+            this.Hide();
+            category.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ManageUsers user = new ManageUsers();
+            this.Hide();
+            user.Show();
+        }
+
+        private void btn_exit_Click(object sender, EventArgs e)
+        {
+            Login login = new Login();
+            this.Hide();
+            login.Show();
+        }
     }
 }

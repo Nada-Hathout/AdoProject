@@ -55,7 +55,6 @@ F:\PD\ADO\project\ADO_Project\shopping.Presentation\bin\Debug\net8.0-windows\Sho
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\bin\Debug\net8.0-windows\Shopping.BusinessLayer.pdb
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\bin\Debug\net8.0-windows\Shopping.DataAccess.pdb
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.csproj.AssemblyReference.cache
-F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Form1.resources
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Login.resources
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Properties.Resources.resources
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Registeration.resources
@@ -74,3 +73,7 @@ F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\ref
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Admin.AdminDash.resources
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Admin.ManageGategory.resources
 F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Admin.ManageProduct_Admin.resources
+F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.sourcelink.json
+F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Admin.ManageUsers.resources
+F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.Admin.AdminEditProfile.resources
+F:\PD\ADO\project\ADO_Project\shopping.Presentation\obj\Debug\net8.0-windows\shopping.Presentation.User.UserView.resources

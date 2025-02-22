@@ -22,6 +22,13 @@ namespace Shopping.BusinessLayer
 
             return dt;
         }
+        public DataTable dgv_Product()
+        {
+            String query = "select p.ProductId, p.ProductName,p.Price,c.CategoryName,p.CategoryId from Products p join Categories c on c.CategoryId=p.CategoryId";
+            DataTable dt = context.ExecuteQuery(query);
+
+            return dt;
+        }
 
         public int AddProduct(string ProductName,decimal price,int CategoryId )
         {
@@ -30,9 +37,9 @@ namespace Shopping.BusinessLayer
             return rowsAffected;
         }
 
-        public int UpdateProduct(string ProductName, decimal price, int CategoryId)
+        public int UpdateProduct(string ProductName, decimal price, int CategoryId, int id)
         {
-            String query = $"Update Products set ProductName='{ProductName}',Price='{price}',CategoryId='{CategoryId}' ";
+            String query = $"Update Products set ProductName='{ProductName}',Price='{price}',CategoryId='{CategoryId}' where ProductId='{id}'";
             int rowsAffected = context.ExecuteNonQuery(query);
             return rowsAffected;
         }
@@ -43,6 +50,8 @@ namespace Shopping.BusinessLayer
             int rowsAffected = context.ExecuteNonQuery(query);
             return rowsAffected;
         }
+
+
 
     }
 }

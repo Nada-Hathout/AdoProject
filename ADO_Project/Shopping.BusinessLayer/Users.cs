@@ -17,7 +17,7 @@ namespace Shopping.BusinessLayer
         }
         public DataTable getAllUsers()
         {
-            string query = "Select UserId,Username,Password,Email,Age,Address,Role";
+            string query = "Select UserId,Username,Password,Email,Age,Address,Role from Users";
             DataTable dt=context.ExecuteQuery(query);
 
             return dt;
@@ -55,9 +55,9 @@ namespace Shopping.BusinessLayer
 
         }
 
-        public int UpdateUser(string u_name, string u_pass, string u_Email, int u_age, string u_address, string u_role)
+        public int UpdateUser(string u_name, string u_pass, string u_Email, int u_age, string u_address, string u_role,int id)
         {
-            String query = $"Update Users set Username='{u_name}',Password='{u_pass}',Email='{u_Email}',Age='{u_age}',Address='{u_address}',Role='{u_role}' ";
+            String query = $"Update Users set Username='{u_name}',Password='{u_pass}',Email='{u_Email}',Age='{u_age}',Address='{u_address}',Role='{u_role}' where UserId='{id}' ";
             int rowsAffected = context.ExecuteNonQuery(query);
             return rowsAffected;
         }
@@ -68,5 +68,32 @@ namespace Shopping.BusinessLayer
             int rowsAffected = context.ExecuteNonQuery(query);
             return rowsAffected;
         }
+
+        public int UpdatePassword(int id,string username,string u_pass)
+        {
+            String query = $"Update Users set UserName = '{username}',Password='{u_pass}' where UserId='{id}'";
+            int rowsAffected = context.ExecuteNonQuery(query);
+            return rowsAffected;
+        }
+
+        public DataTable authenticateUserData(string userName, string password)
+        {
+            string query = $"select [UserId],[Username],[Password],[Email],[Age],[Address],[Role] from Users where  Username='{userName}'and Role='User'";
+            DataTable dataTable = context.ExecuteQuery(query);
+
+
+            return dataTable;
+        }
+
+        public bool authenticateAdmin(string userName, string password)
+        {
+            string query = $"select [Username],[Password] from Users where Password='{password}' and Username='{userName}'and Role='User'";
+            DataTable dataTable = context.ExecuteQuery(query);
+
+
+            return dataTable.Rows.Count > 0;
+        }
+
+     
     }
 }

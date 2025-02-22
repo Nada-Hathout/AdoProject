@@ -1,4 +1,5 @@
 ﻿using shopping.Presentation.Admin;
+using shopping.Presentation.User;
 using Shopping.BusinessLayer;
 using System;
 using System.Collections.Generic;
@@ -51,8 +52,8 @@ namespace shopping.Presentation
                 return; 
             }
 
-            string role = cb_role.SelectedItem?.ToString();
-            string user_role = "User";
+            string role = "User";
+         
             if (string.IsNullOrEmpty(role))
             {
                 MessageBox.Show("Please select a role.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -65,30 +66,17 @@ namespace shopping.Presentation
                 int affectedRow = user.LoginAsUser(txt_username.Text, txt_password.Text);
                 if (user.LoginAsUser(txt_username.Text, txt_password.Text)>0) 
                 {
-                    //MessageBox.Show("", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
-                    ManageGategory manageGategory = new ManageGategory();
-                    manageGategory.Show();
-                    this.Close();
-                    //if (role == user_role)
-                    //{
-                    //    MessageBox.Show("hi", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
-                    //    ManageGategory category = new ManageGategory();
-                    //    category.Show();
-                    //}
-                    //else if (role == "Admin")
-                    //{
-                    //    AdminDash admin = new AdminDash();
-                    //    admin.Show();
-                    //}
-
-                    //this.Hide(); // Hide the login form only after successful login
-                }else if (user.LoginAsAdmin(txt_username.Text, txt_password.Text) > 0)
+                   UserView userView= new UserView();
+                    this.Hide();
+                    userView.Show();
+                    
+                }
+                else if (user.LoginAsAdmin(txt_username.Text, txt_password.Text) > 0)
                 {
                     AdminDash adminDash = new AdminDash();
+                    this.Hide();
                     adminDash.Show();
-                    this.Close();
+                   
                 }
                 else
                 {
